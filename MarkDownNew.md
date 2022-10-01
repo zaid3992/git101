@@ -106,7 +106,7 @@ y =9
 z=x+y
 print(z)
 ```
->This code woth color according to python syntax
+>This code woth ok color according to python syntax
 
 ```python
 x =2
